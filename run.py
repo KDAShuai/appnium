@@ -7,8 +7,8 @@ from selenium.webdriver import ActionChains
 
 import time
 
-account = '13350085865'
-password = 'Shuai7456'
+account = #应用程序ID
+password = #应用程序密码
 
 # 初始化参数
 desired_caps = {
